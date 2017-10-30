@@ -2,8 +2,7 @@
 
 # Site settings
 title: Josephs Lab              # used for the html title of every page
-desc: >
-Josephs Lab @ MSU
+desc: Josephs Lab @ MSU
 url: josephslab.github.io      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
