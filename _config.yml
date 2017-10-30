@@ -33,8 +33,8 @@ navigation:
   - title: Papers
     url: /papers/
     desc: Things we've written
-  - title: Contact
-    url: /contact/
+  - title: About
+    url: /about/
     desc: Info about contacting me
 
 # Used by Jekyll to recognize what is a post and what is a page
