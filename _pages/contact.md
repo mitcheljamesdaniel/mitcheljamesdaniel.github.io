@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Research
-subtitle: Research.
-desc: Research.
-permalink: /research/
+title: Contact
+subtitle: Contact.
+desc: Contact.
+permalink: /Contact/
 ---
 
 <div class="pretty-links">
 
-<div class="lead lead-about">Research in the Josephs Lab
+<div class="lead lead-about">Contact
 </div>
 
 {::nomarkdown} 

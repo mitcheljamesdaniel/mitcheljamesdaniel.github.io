@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Research
-subtitle: Research.
-desc: Research.
-permalink: /research/
+title: People
+subtitle: People.
+desc: People.
+permalink: /people/
 ---
 
 <div class="pretty-links">
 
-<div class="lead lead-about">Research in the Josephs Lab
+<div class="lead lead-about">People in the Josephs Lab
 </div>
 
 {::nomarkdown} 
@@ -16,16 +16,13 @@ permalink: /research/
     <img src="{{ site.baseurl }}/assets/img/profile.png">
 </figure>
 {:/}
-
-We do research on things
 ---
 
-## Research topic 1
+## Emily Josephs
 
-Stuff
+Stuff about me
 
-## Research topic 2
 
-Stuff
+
 </div>
 
