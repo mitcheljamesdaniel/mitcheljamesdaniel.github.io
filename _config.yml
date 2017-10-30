@@ -1,1 +1,16 @@
-theme: jekyll-theme-cayman
+name: Josephs Lab
+url: josephslab.github.io
+description: A website for the Josephs Lab @ MSU
+
+permalink: /themes/:title/
+
+gems: [jekyll-paginate]
+
+highlighter: pygments
+paginate: 20
+
+markdown: rdiscount
+rdiscount:
+    extensions: ['smart']
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
