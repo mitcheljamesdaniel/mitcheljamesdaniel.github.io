@@ -2,7 +2,7 @@
 title: Josephs Lab
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Website for the Josephs Lab at MSU
+  
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://josephslab.github.io" # the base hostname & protocol for your site
 twitter_username: emjosephs
