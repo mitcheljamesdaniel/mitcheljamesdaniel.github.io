@@ -1,16 +1,16 @@
-name: Josephs Lab
-url: josephslab.github.io
-description: A website for the Josephs Lab @ MSU
+# Site settings
+title: Josephs Lab
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  Website for the Josephs Lab at MSU
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://josephslab.github.io" # the base hostname & protocol for your site
+twitter_username: emjosephs
+github_username: emjosephs
 
-permalink: /themes/:title/
+# Build settings
+markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
-gems: [jekyll-paginate]
-
-highlighter: pygments
-paginate: 20
-
-markdown: rdiscount
-rdiscount:
-    extensions: ['smart']
-
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]
