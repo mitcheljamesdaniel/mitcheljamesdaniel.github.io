@@ -3,7 +3,7 @@ layout: page
 title: Contact
 subtitle: Contact.
 desc: Contact.
-permalink: /Contact/
+permalink: /contact/
 ---
 
 <div class="pretty-links">
