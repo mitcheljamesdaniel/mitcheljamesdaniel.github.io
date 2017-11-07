@@ -10,7 +10,7 @@ permalink: /team/
 I have openings for postdocs, grad students, and techs! Please get in touch with Emily: emjo@ucdavis.edu
 
 <div style="float: left; padding-right: 15px">
-    <a href="http://beissingerlab.github.io/images/teampic/me.jpg"><img src="/imgages/teampic/me.jpg" alt="Emily" title="Picture" width="150" border="0""></a>
+    <a href="http://josephslab.github.io/images/teampic/me.jpg"><img src="/imgages/teampic/me.jpg" alt="Emily" title="Picture" width="150" border="0""></a>
 </div>
 
 ### Emily Josephs, PI
