@@ -9,9 +9,8 @@ permalink: /publications/
 
 # Publications
 
-## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ca/citations?user=LeLjAToAAAAJ&hl=en)
+(For a full list  go to [Google Scholar](https://scholar.google.ca/citations?user=LeLjAToAAAAJ&hl=en)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -49,15 +48,6 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
 
 
-## Full List
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
 
