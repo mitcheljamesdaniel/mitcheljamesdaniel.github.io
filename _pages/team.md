@@ -6,62 +6,16 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+### Interested in joining the lab?
+I have openings for postdocs, grad students, and techs! Please get in touch with Emily: emjo@ucdavis.edu
 
-
-
-{% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
-  
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-  
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-  
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-  
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-  
-  </ul>
+<div style="float: left; padding-right: 15px">
+    <a href="http://beissingerlab.github.io/images/teampic/me.jpg"><img src="/imgages/teampic/me.jpg" alt="Emily" title="Picture" width="150" border="0""></a>
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+### Emily Josephs, PI
+<a href="https://twitter.com/emjosephs"><img src="images/Twitter_logo_blue.png" style="width: 15px;"></a><a href="https://github.com/emjosephs"><img src="images/GitHub-Mark-32px.png" style="width:15px;"></a>
+Emily will be starting as an assistant professor in the Plant Biology department at Michigan State University in January 2019. She received a PhD in Ecology and Evolutionary Biology from the University of Toronto and was a postdoc at University of California, Davis in the Evolutionary Biology and Ecology department and the Center for Population Biology. Emily is generally excited by all things population and quantitative genetics, swimming, biking, and baking bread.  
 
 
 
