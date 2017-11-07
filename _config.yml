@@ -8,8 +8,7 @@
 # Site settings
 title: The Josephs Lab
 email: emjo@ucdavis.edu
-description: > # this means to ignore newlines until "baseurl:"
-Internet home of the Josephs Lab at Michigan State University
+description: Internet home of the Josephs Lab at Michigan State University
 baseurl: ""
 url: ""
 
