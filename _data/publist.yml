@@ -1,6 +1,6 @@
 - title: "The relationship between selection, network connectivity, and regulatory variation within a population of Capsella grandiflora"
   image: gbe.png
-  description: ""
+  description: "We used leaf expression data to construct coexpression networks that tell us about the correlation in expression between genes. We then showed that genes that are well connected in our network (have highly correlated expression with other genes) are under stronger negative selection than genes with lower connectivity. We also found that genes with local eQTLs (variants that regulate gene expression) are under weaker negative selection and are less connected, suggesting that variation in gene regulation may drive these patterns"
   authors: EB Josephs, SI Wright, JR Stinchcombe, DJ Schoen
   link:
     url: https://academic.oup.com/gbe/article/doi/10.1093/gbe/evx068/3200385/The-relationship-between-selection-network
