@@ -8,3 +8,26 @@
   highlight: 1
   news2: 
 
+
+- title: "What can genome-wide association studies tell us about the evolutionary forces maintaining genetic variation for quantitative traits?"
+  image: newphyt.png
+  description: ""
+  authors: EB Josephs, JR Stinchcombe, SI Wright
+  link:
+    url: http://onlinelibrary.wiley.com/doi/10.1111/nph.14410/full
+    display:  New Phytologist (2017)
+  highlight: 1
+  news2:
+
+- title: "Association mapping reveals the role of purifying selection in the maintenance of genomic variation in gene expression"
+  image: pnas.gif
+  description: ""
+  authors: EB Josephs, YW Lee, JR Stinchcombe, SI Wright
+  link:
+    url: http://www.pnas.org/content/112/50/15390.short
+    display:  PNAS (2015)
+  highlight: 1
+  news2:
+
+
+
