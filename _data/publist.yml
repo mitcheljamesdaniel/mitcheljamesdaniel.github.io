@@ -29,5 +29,14 @@
   highlight: 1
   news2:
 
+- title: "Evidence for widespread positive and negative selection in coding and conserved noncoding regions of Capsella grandiflora"
+  image: plosgen.png
+  description: "We analyzed population genetic signatures of selection in Capsella and showed that selection is important in shaping genomic variation."
+  authors: RJ Williamson*, EB Josephs*, AE Platts, KM Hazzouri, A Haudry, M Blanchette, SI Wright.
+  link: 
+    url: http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004622
+    display:  Plos Genetics (2014)
+  highlight: 1
+  news2:
 
 
