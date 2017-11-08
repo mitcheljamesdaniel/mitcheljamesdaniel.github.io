@@ -8,6 +8,9 @@ permalink: /team/
 
 ### Interested in joining the lab?
 I have openings for postdocs, grad students, and techs! Please get in touch with me: emjo@ucdavis.edu
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/me.jpg){: style="width: 300px; float: right; border: 10px"}
+
+
 
 ![](http://josephslab.github.io/images/teampic/me.jpg"){: style="width: 300px; float: right; border:10px"}
 ### Emily Josephs, PI
