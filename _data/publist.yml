@@ -1,6 +1,6 @@
 - title: "The relationship between selection, network connectivity, and regulatory variation within a population of Capsella grandiflora"
   image: gbe.png
-  description: "We used leaf expression data to construct coexpression networks that tell us about the correlation in expression between genes. We then showed that genes that are well connected in our network (have highly correlated expression with other genes) are under stronger negative selection than genes with lower connectivity. We also found that genes with local eQTLs (variants that regulate gene expression) are under weaker negative selection and are less connected, suggesting that variation in gene regulation may drive these patterns"
+  description: "We used leaf expression data to construct coexpression networks that describe the correlation in expression between genes. Connectivity in these networks was associated with both the strength of negative selection on gene sequence and the presence of local regulatory variants ('eQTLs')"
   authors: EB Josephs, SI Wright, JR Stinchcombe, DJ Schoen
   link:
     url: https://academic.oup.com/gbe/article/doi/10.1093/gbe/evx068/3200385/The-relationship-between-selection-network
@@ -11,7 +11,7 @@
 
 - title: "What can genome-wide association studies tell us about the evolutionary forces maintaining genetic variation for quantitative traits?"
   image: newphyt.png
-  description: ""
+  description: "A review of techniques and best practices for understanding the maintenance of genetic variation using population and quantitative genetics"
   authors: EB Josephs, JR Stinchcombe, SI Wright
   link:
     url: http://onlinelibrary.wiley.com/doi/10.1111/nph.14410/full
@@ -21,7 +21,7 @@
 
 - title: "Association mapping reveals the role of purifying selection in the maintenance of genomic variation in gene expression"
   image: pnas.gif
-  description: ""
+  description: "We identified genetic variants that control gene expression and showed that purifying (or negative) selection acts on these variants based on patterns of allele frequency and effect sizes."
   authors: EB Josephs, YW Lee, JR Stinchcombe, SI Wright
   link:
     url: http://www.pnas.org/content/112/50/15390.short
