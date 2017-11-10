@@ -9,7 +9,9 @@ permalink: /research/
 # Research
 
 Why does genetic variation persist within populations? 
+
 Why is there genetic divergence between populations? 
+
 How do plants adapt to their local environments (if they do)?
 
 The lab is broadly interested in answering these questions using population genomic and quantitative genetic techniques.
