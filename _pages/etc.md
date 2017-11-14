@@ -9,6 +9,8 @@ permalink: /etc/
 ## Useful Resources and Scientific Practices
 [Workflow for reproducible analyses in R + Rstudio](https://sejohnston.com/2015/05/12/an-introduction-to-reproducible-research-in-r-and-r-studio/)
 
+[Rstudio cheat sheets](https://www.rstudio.com/resources/cheatsheets/?utm_content=buffer743c2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
 [Population genetics notes](http://cooplab.github.io/popgen-notes/)
 
 
