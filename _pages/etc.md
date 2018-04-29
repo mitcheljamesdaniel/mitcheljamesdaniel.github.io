@@ -14,12 +14,12 @@ More info and ideas here:
 
 [Resource page from University of Toronto BREWS](https://brews.eeb.utoronto.ca/links-resources/)
 
-### Resources on MSU campus
-[Office for Inclusion and Intercultural Initiatives](http://www.inclusion.msu.edu/)
-[Office for International Students and Scholars](http://oiss.isp.msu.edu/)
-[Lesbian, Bisexual, Gay, and Transgender Resource Center](http://lbgtrc.msu.edu/)
-[Resource Center for Persons with Disabilities](https://www.rcpd.msu.edu/)
-[Office of Cultural & Academic Transitions](http://ocat.msu.edu/)
+#### Resources on MSU campus
+[Office for Inclusion and Intercultural Initiatives](http://www.inclusion.msu.edu/)<br>
+[Office for International Students and Scholars](http://oiss.isp.msu.edu/)<br>
+[Lesbian, Bisexual, Gay, and Transgender Resource Center](http://lbgtrc.msu.edu/)<br>
+[Resource Center for Persons with Disabilities](https://www.rcpd.msu.edu/)<br>
+[Office of Cultural & Academic Transitions](http://ocat.msu.edu/)<br>
 [MSU's Anti-Discrimination Policy](https://www.hr.msu.edu/policies-procedures/university-wide/ADP_policy.html)
 
 
