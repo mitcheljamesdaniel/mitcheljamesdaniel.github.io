@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Josephs Lab at Michigan State University."
 sitemap: false
 permalink: /allnews.html
 ---

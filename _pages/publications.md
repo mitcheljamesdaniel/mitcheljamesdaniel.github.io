@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Josephs Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Josephs Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -9,9 +9,8 @@ permalink: /publications/
 
 # Publications
 
-## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+For a full list see [Google Scholar](https://scholar.google.ca/citations?user=LeLjAToAAAAJ&hl=en)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -49,15 +48,6 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
 
 
-## Full List
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
 
