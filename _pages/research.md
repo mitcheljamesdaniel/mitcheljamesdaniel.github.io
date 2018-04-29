@@ -15,7 +15,7 @@ permalink: /research/
 The lab is broadly interested in answering these questions using population genomic and quantitative genetic techniques with a focus on thinking about quantitative (complex) traits.
 
 
-## Model systems
+## Study systems
 
 We are open to working in a number of crop or wild plant species. Some lab favorites are described below.
 
