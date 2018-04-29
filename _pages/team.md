@@ -13,10 +13,11 @@ permalink: /team/
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/me.jpg){: style="width: 300px; float: left; border: 10px"}
 ### Emily Josephs, PI
 
-Emily will be starting as an assistant professor in the Plant Biology department and AgBioResearch at Michigan State University in January 2019. She received a PhD from the University of Toronto and was a postdoc at the University of California, Davis. Emily is generally excited by all things population and quantitative genetics, swimming, biking, and baking bread. 
+Emily will be starting as an assistant professor in the Plant Biology department and AgBioResearch at Michigan State University in January 2019. She received a PhD from the University of Toronto and was a postdoc at the University of California, Davis. Emily is generally excited by all things population and quantitative genetics, swimming, and biking. 
 Email: emjo@ucdavis.edu
+
 Twitter:[@emjosephs](https://twitter.com/emjosephs)  
-Github: [@emjosephs](https://github.com/emjosephs/)
+Github: [emjosephs](https://github.com/emjosephs/)
 
 
 
