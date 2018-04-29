@@ -1,9 +1,9 @@
 ---
-title: "Josephs Lab - Team"
+title: "Josephs Lab - People"
 layout: gridlay
-excerpt: "Josephs Lab: Team members"
+excerpt: "Josephs Lab: People"
 sitemap: false
-permalink: /team/
+permalink: /people/
 ---
 
 # People in the Lab
