@@ -25,7 +25,7 @@ We are open to working in a number of crop or wild plant species. Some lab favor
 
 ![]({{ site.url }}{{ site.baseurl }}/images/cg.png){: style="width: 100px; float: right; border: 20px"}
 
-- *Capsella grandiflora* is a small weedy annual native to northern Greece and Albania. It often gets mistaken for it's Brassicaceuous relative Arabidopsis, but it is much cooler than Arabidopsis: heart-shaped fruit, obligate outcrossing, and close relatives *Capsella rubella*, *Capsella orientalis*, and *Capsella bursa-pastoris* that can be found across the globe. 
+- *Capsella grandiflora* is a small weedy annual native to northern Greece and Albania. It often gets mistaken for it's Brassicaceous relative Arabidopsis, but it is much cooler than Arabidopsis: heart-shaped fruit, obligate outcrossing, and close relatives *Capsella rubella*, *Capsella orientalis*, and *Capsella bursa-pastoris* that can be found across the globe. 
 
 
 
