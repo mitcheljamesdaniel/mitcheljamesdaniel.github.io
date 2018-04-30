@@ -1,9 +1,9 @@
 ---
-title: "Josephs Lab - etc"
+title: "Josephs Lab - Resources"
 layout: gridlay
-excerpt: "Josephs Lab: etc"
+excerpt: "Josephs Lab: Resources"
 sitemap: false
-permalink: /etc/
+permalink: /resources/
 ---
 
 ## Diversity in Science
