@@ -21,7 +21,7 @@ We tackle these questions using population genomic and quantitative genetic tech
 
 We are open to working in a number of crop or wild plant species. Some lab favorites are described below.
 
-![]({{ site.url }}{{ site.baseurl }}/images/flintydenty.jpeg){style="width: 100px; float: left; border: 50px"}
+![]({{ site.url }}{{ site.baseurl }}/images/flintydenty.jpeg){: style="width: 100px; float: left; border: 50px"}
 
 - Corn ('Maize', *Zea mays subsp. mays*) is not only delicious but a great genetic model for thinking about adaptation during domestication and breeding. Maize is currently grown at a staggering scale (over 96 million acres in the US alone!!) but is also grown world-wide in a range of habitats.
 
