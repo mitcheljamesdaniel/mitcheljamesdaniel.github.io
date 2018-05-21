@@ -7,11 +7,14 @@ permalink: /resources/
 ---
 
 ## Diversity in Science
-The lack of diversity in science is an important issue and it is our responsibility to educate ourselves about diversity issues in science, learn how to best combate discrimination, and work to promote equity and build an inclusive scientific community. I am always happy to talk about these and related issues and will actively work to keep the Josephs lab an inclusive and welcoming space. (The art below is *Autobiography: The Search (Chrysalis/Mediation, Positive/Negative* by Howardena Pindell).
 
 <p align="center">
-<img src = "{{ site.url}}{{ site.baseurl}}/images/pindell.jpg" class="img-responsive" width = "80%" />
+<img src = "{{ site.url}}{{ site.baseurl}}/images/pindell.jpg" class="img-responsive" width = "70%" />
 </p>
+
+
+The lack of diversity in science is an important issue and it is our responsibility to educate ourselves about diversity issues in science, learn how to best combate discrimination, and work to promote equity and build an inclusive scientific community. I am always happy to talk about these and related issues and will actively work to keep the Josephs lab an inclusive and welcoming space. (The art above is *Autobiography: The Search (Chrysalis/Mediation, Positive/Negative* by Howardena Pindell).
+
 
 More info and ideas here:<br>
 [Diversity in Stem: What It Is and Why It Matters](https://blogs.scientificamerican.com/voices/diversity-in-stem-what-it-is-and-why-it-matters/)
