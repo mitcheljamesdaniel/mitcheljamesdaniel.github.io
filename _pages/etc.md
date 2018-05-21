@@ -14,6 +14,8 @@ More info and ideas here:<br>
 
 [Resource page from University of Toronto BREWS](https://brews.eeb.utoronto.ca/links-resources/)
 
+[An annotated bibliography I made on gender and the tenure-track job market({{site.url}}{{site.baseurl}}/womenjobs/)
+
 #### Resources on MSU campus
 [Office for Inclusion and Intercultural Initiatives](http://www.inclusion.msu.edu/)<br>
 [Office for International Students and Scholars](http://oiss.isp.msu.edu/)<br>
@@ -21,7 +23,6 @@ More info and ideas here:<br>
 [Resource Center for Persons with Disabilities](https://www.rcpd.msu.edu/)<br>
 [Office of Cultural & Academic Transitions](http://ocat.msu.edu/)<br>
 [MSU's Anti-Discrimination Policy](https://www.hr.msu.edu/policies-procedures/university-wide/ADP_policy.html)
-
 
 (credit to [Marjorie Weber](http://www.theweberlab.com/diversity-in-stem.html) and [Scott Taylor](https://www.colorado.edu/lab/taylor/diversity-stem) for resources and inspiration.)
 
