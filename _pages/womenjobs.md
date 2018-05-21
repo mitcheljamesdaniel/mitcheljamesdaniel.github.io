@@ -1,7 +1,7 @@
 ---
-title: "Josephs Lab - Resources"
+title: "Josephs Lab"
 layout: gridlay
-excerpt: "Josephs Lab: Resources"
+excerpt: "Josephs Lab"
 sitemap: false
 permalink: /womenjobs/
 ---
