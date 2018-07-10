@@ -17,7 +17,7 @@ Emily will be starting as an assistant professor in the Plant Biology department
 
 Email: emjo@ucdavis.edu <br>
 Twitter: [@emjosephs](https://twitter.com/emjosephs)  
-Github: [emjosephs](https://github.com/emjosephs/)
+Github: [emjosephs](https://github.com/emjosephs/) <br>
 My CV: [here](https://v2.overleaf.com/read/mfgrfbgxcctp)
 
 
