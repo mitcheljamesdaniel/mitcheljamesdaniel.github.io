@@ -19,6 +19,8 @@ The lack of diversity in science is an important issue and it is our responsibil
 #### More info and ideas here:
 [Diversity in Stem: What It Is and Why It Matters](https://blogs.scientificamerican.com/voices/diversity-in-stem-what-it-is-and-why-it-matters/)
 
+[Resources for First Generation Graduate Students](https://jdkincaid.wordpress.com/)
+
 [Resource page from University of Toronto BREWS](https://brews.eeb.utoronto.ca/links-resources/)
 
 [An annotated bibliography I made on gender and the tenure-track job market](http://josephslab.github.io/womenjobs/)
@@ -32,6 +34,14 @@ The lack of diversity in science is an important issue and it is our responsibil
 [MSU's Anti-Discrimination Policy](https://www.hr.msu.edu/policies-procedures/university-wide/ADP_policy.html)
 
 (credit to [Marjorie Weber](http://www.theweberlab.com/diversity-in-stem.html) and [Scott Taylor](https://www.colorado.edu/lab/taylor/diversity-stem) for resources and inspiration.)
+
+
+## Mental Health Resources
+Graduate school and academic jobs can be difficult and, while we wish it were not the case, mental health issues are unfortunately common. It's important for members of the academic community who are struggling to know that they are not alone. As an advisor, I strive to take the mental health of lab members seriously. Below are some further readings and resources. 
+
+[What colleges must do to promote mental health for graduate students](https://theconversation.com/what-colleges-must-do-to-promote-mental-health-for-graduate-students-100922)
+
+[MSU's Couseling and Psychiatric Services](https://caps.msu.edu/index.html)
 
 
 ## Computational Resources
