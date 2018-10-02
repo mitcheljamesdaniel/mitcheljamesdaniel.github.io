@@ -6,6 +6,7 @@ sitemap: false
 permalink: /join/
 ---
 
+![]({{ site.url }}{{ site.baseurl }}/images/msu.jpg){: style="width: 300px; float: center; border: 10px"}
 ## Opportunities in the Lab
 The Josephs lab is looking for undergraduate students, graduate students, and postdocs to join the lab.
 Contact me at **josep113@msu.edu** if you want to talk about joining the lab!
@@ -13,6 +14,9 @@ Contact me at **josep113@msu.edu** if you want to talk about joining the lab!
 I'm always happy to discuss possibilities for independent fellowship applications with potential **postdocs**. 
 
 **Graduate students** in my lab can apply through the [Plant Biology program](https://plantbiology.natsci.msu.edu/grad-program/how-to-apply/) and have an option to get involved in the [Ecology, Evolutionary Biology, & Behavior (EEBB)](https://eebb.natsci.msu.edu/) program.
+
+![]({{ site.url }}{{ site.baseurl }}/images/tower.jpg){: style="width: 300px; float: center; border: 10px"}
+
 
 ### About the Lab
 The Josephs Lab is based at Michigan State University in the [Department of Plant Biology](https://plantbiology.natsci.msu.edu/). 
