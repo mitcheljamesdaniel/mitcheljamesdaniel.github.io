@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to the internet home of the Josephs Lab at Michigan State University. 
-
+We study the evolutionary genetics of wild and domesticated plants by using genomic data, experiments, and new methods to understand how evolution has shaped the variation we see today.
 
 
 
