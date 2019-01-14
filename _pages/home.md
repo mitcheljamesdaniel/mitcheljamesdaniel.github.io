@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to the internet home of the Josephs Lab at Michigan State University. The lab will open in January 2019. 
+Welcome to the internet home of the Josephs Lab at Michigan State University. 
 
 
 
