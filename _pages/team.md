@@ -15,7 +15,7 @@ permalink: /people/
 
 Emily is as an assistant professor in the Plant Biology department and AgBioResearch at Michigan State University. She received a PhD from the University of Toronto and was a postdoc at the University of California, Davis. Emily is generally excited about all things population and quantitative genetics, swimming, and camping. 
 
-Email: emjo@ucdavis.edu <br>
+Email: josep993@msu.edu <br>
 Twitter: [@emjosephs](https://twitter.com/emjosephs)  
 Github: [emjosephs](https://github.com/emjosephs/) <br>
 
