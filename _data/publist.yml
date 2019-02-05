@@ -3,7 +3,7 @@
   description: "We developed a method to detect local adaptation in diverse samples that have been genotyped and phenotyped in common garden. Specifically, we look for excess trait differentiation along the principal components of relatedness beyond an expectation based on neutral genetic drift. We then applied these methods to detect adaptation in domesticated maize."
   authors: EB Josephs, JJ Berg, J Ross-Ibarra, G Coop
   link:
-    url: pdfs/Josephs_etal_2019_genetics_early.pdf
+    url: https://github.com/josephslab/josephslab.github.io/blob/master/pdfs/Josephs_etal_2019_genetics_early.pdf
     display:  PDF
   highlight: 1
   news2:
