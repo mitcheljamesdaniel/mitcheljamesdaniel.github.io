@@ -3,8 +3,8 @@
   description: "We developed a method to detect local adaptation in diverse samples that have been genotyped and phenotyped in common garden. Specifically, we look for excess trait differentiation along the principal components of relatedness beyond an expectation based on neutral genetic drift. We then applied these methods to detect adaptation in domesticated maize."
   authors: EB Josephs, JJ Berg, J Ross-Ibarra, G Coop
   link:
-    url: pdfs/Josephs_etal_2019_genetics_early.pdf
-    display:  PDF
+    url: http://www.genetics.org/content/early/2019/01/28/genetics.118.301786
+    display:  Genetics (2019)
   highlight: 1
   news2:
 
@@ -17,7 +17,7 @@
   link:
     url: https://academic.oup.com/gbe/article/doi/10.1093/gbe/evx068/3200385/The-relationship-between-selection-network
     display:  Genome Biology and Evolution (2017)
- highlight: 1
+  highlight: 1
   news2: 
 
 
