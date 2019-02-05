@@ -1,3 +1,15 @@
+- title: "Detecting adaptive differentiation in structured populations with genomic data and common gardens"
+  image: genetics.png
+  description: "We developed a method to detect local adaptation in diverse samples that have been genotyped and phenotyped in common garden. Specifically, we look for excess trait differentiation along the principal components of relatedness beyond an expectation based on neutral genetic drift. We then applied these methods to detect adaptation in domesticated maize."
+  authors: EB Josephs, JJ Berg, J Ross-Ibarra, G Coop
+  link:
+    url: http://www.genetics.org/content/early/2019/01/28/genetics.118.301786
+    display:  Genetics (2019)
+  highlight: 1
+  news2:
+
+
+
 - title: "The relationship between selection, network connectivity, and regulatory variation within a population of Capsella grandiflora"
   image: gbe.png
   description: "We used leaf expression data to construct coexpression networks that describe the correlation in expression between genes. Connectivity in these networks was associated with both the strength of negative selection on gene sequence and the presence of local regulatory variants ('eQTLs')"
