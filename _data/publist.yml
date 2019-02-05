@@ -16,7 +16,7 @@
   authors: EB Josephs, SI Wright, JR Stinchcombe, DJ Schoen
   link:
     url: https://academic.oup.com/gbe/article/doi/10.1093/gbe/evx068/3200385/The-relationship-between-selection-network
-    display:  Genome Biology and Evolution (2017)
+    display:  Link
   highlight: 1
   news2: 
 
@@ -27,7 +27,7 @@
   authors: EB Josephs, JR Stinchcombe, SI Wright
   link:
     url: http://onlinelibrary.wiley.com/doi/10.1111/nph.14410/full
-    display:  New Phytologist (2017)
+    display:  Link
   highlight: 1
   news2:
 
@@ -36,8 +36,8 @@
   description: "We identified genetic variants that control gene expression and showed that purifying (or negative) selection acts on these variants based on patterns of allele frequency and effect sizes."
   authors: EB Josephs, YW Lee, JR Stinchcombe, SI Wright
   link:
-    url: http://www.pnas.org/content/112/50/15390.short
-    display:  PNAS (2015)
+    url: https://github.com/josephslab/josephslab.github.io/blob/master/pdfs/Josephs_etal_2015_pnas.pdf 
+    display:  PDF
   highlight: 1
   news2:
 
@@ -47,7 +47,7 @@
   authors: RJ Williamson*, EB Josephs*, AE Platts, KM Hazzouri, A Haudry, M Blanchette, SI Wright.
   link: 
     url: http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004622
-    display:  Plos Genetics (2014)
+    display: Link
   highlight: 1
   news2:
 
