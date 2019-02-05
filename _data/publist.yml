@@ -2,6 +2,7 @@
   image: genetics.png
   description: "We developed a method to detect local adaptation in diverse samples that have been genotyped and phenotyped in common garden. Specifically, we look for excess trait differentiation along the principal components of relatedness beyond an expectation based on neutral genetic drift. We then applied these methods to detect adaptation in domesticated maize."
   authors: EB Josephs, JJ Berg, J Ross-Ibarra, G Coop
+  journal: Genetics (2019)
   link:
     url: https://github.com/josephslab/josephslab.github.io/blob/master/pdfs/Josephs_etal_2019_genetics_early.pdf
     display:  PDF
@@ -14,6 +15,7 @@
   image: gbe.png
   description: "We used leaf expression data to construct coexpression networks that describe the correlation in expression between genes. Connectivity in these networks was associated with both the strength of negative selection on gene sequence and the presence of local regulatory variants ('eQTLs')"
   authors: EB Josephs, SI Wright, JR Stinchcombe, DJ Schoen
+  journal: Genome Biology and Evolution (2017)
   link:
     url: https://academic.oup.com/gbe/article/doi/10.1093/gbe/evx068/3200385/The-relationship-between-selection-network
     display:  Link
@@ -25,6 +27,7 @@
   image: newphyt.png
   description: "A review of techniques and best practices for understanding the maintenance of genetic variation using population and quantitative genetics"
   authors: EB Josephs, JR Stinchcombe, SI Wright
+  journal: New Phytologist (2017)
   link:
     url: http://onlinelibrary.wiley.com/doi/10.1111/nph.14410/full
     display:  Link
@@ -35,6 +38,7 @@
   image: pnas.gif
   description: "We identified genetic variants that control gene expression and showed that purifying (or negative) selection acts on these variants based on patterns of allele frequency and effect sizes."
   authors: EB Josephs, YW Lee, JR Stinchcombe, SI Wright
+  journal: PNAS (2015)
   link:
     url: https://github.com/josephslab/josephslab.github.io/blob/master/pdfs/Josephs_etal_2015_pnas.pdf 
     display:  PDF
@@ -45,6 +49,7 @@
   image: plosgen.png
   description: "We analyzed population genetic signatures of selection in Capsella and showed that selection is important in shaping genomic variation."
   authors: RJ Williamson*, EB Josephs*, AE Platts, KM Hazzouri, A Haudry, M Blanchette, SI Wright.
+  journal: Plos Genetics (2014)
   link: 
     url: http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004622
     display: Link

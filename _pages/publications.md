@@ -26,7 +26,8 @@ For a full list see [Google Scholar](https://scholar.google.ca/citations?user=Le
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p><em>{{ publi.authors }}</em></p>
+  <p>{{ publi.authors }}</p>
+  <p><em>{{ publi.journal }}</em></p>
   <p>{{ publi.description }}</p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
