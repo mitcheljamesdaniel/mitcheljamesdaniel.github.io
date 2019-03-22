@@ -18,7 +18,7 @@ Emily is as an assistant professor in the Plant Biology department and AgBioRese
 Email: josep993@msu.edu <br>
 Twitter: [@emjosephs](https://twitter.com/emjosephs)  
 Github: [emjosephs](https://github.com/emjosephs/) <br>
-
+Pronouns: She/her/hers
 
 ### You?
 I'm recruiting a technician, a postdoc, and graduate students.
