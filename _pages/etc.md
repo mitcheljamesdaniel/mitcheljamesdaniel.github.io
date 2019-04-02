@@ -51,6 +51,10 @@ Graduate school and academic jobs can be difficult and, while we wish it were no
 
 [Unix command-line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=y3shhd1a5n)
 
+
+## Writing Resources
+[The 5 pivotal paragraphs in a paper](https://dynamicecology.wordpress.com/2016/02/24/the-5-pivotal-paragraphs-in-a-paper/)
+
 ## Other Resources
 
 [Population genetics notes from Graham Coop](http://cooplab.github.io/popgen-notes/)
