@@ -42,5 +42,8 @@ We are open to working in a number of crop or wild plant species. Some lab favor
 
 To learn more about our research, check out these recorded conference talks:
 Emily Josephs - ["The contribution of local adaptation to GxE" - Evolution 2019](https://www.youtube.com/watch?v=-sxdgWORJIw)
-Emily Josephs - ["Detecting adaptive differentiation in structured populations" - Green Life Science Symposium 2018](https://www.youtube.com/watch?v=igNt7Fk8Npk&t=0s&index=16&list=PLY8QfwKxxfG5hAuV8_YmzkRNPdpAzrulU)
+Emily Josephs - "Detecting adaptive differentiation in structured populations" - Green Life Science Symposium 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-sxdgWORJIw
+" target="_blank"><img src="http://img.youtube.com/vi/-sxdgWORJIw/0.jpg" 
+alt="videolink" width="240" height="180" border="10" /></a>
 
