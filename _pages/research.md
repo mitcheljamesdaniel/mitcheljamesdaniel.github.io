@@ -41,6 +41,7 @@ We are open to working in a number of crop or wild plant species. Some lab favor
 ## Talks
 
 To learn more about our research, check out these recorded conference talks:
+</div>
 Emily Josephs - "The contribution of local adaptation to GxE" - Evolution 2019
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-sxdgWORJIw" target="_blank"><img src="http://img.youtube.com/vi/-sxdgWORJIw/0.jpg" alt="videolink" width="240" height="180" border="10" /></a>
