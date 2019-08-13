@@ -20,8 +20,15 @@ Twitter: [@emjosephs](https://twitter.com/emjosephs)
 Github: [emjosephs](https://github.com/emjosephs/) <br>
 Pronouns: She/her/hers
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/thumnnail_maya_lab_website.jpg){: style="width: 300px; float: left; border: 10px"}
+### Maya Wilson Brown
+Maya is a lab technician. She got her B.S. in Biology at Duke University studying hybrid seed incompatibility and speciation in monkey flowers (Mimulus) and morning glories (Ipomoea). She is interested in evolutionary biology, ecology, genetics, and loves strong espresso.
+
+Email: wils1582@msu.edu
+Pronouns: She/her/hers
+
 ### You?
-I'm recruiting a technician, a postdoc, and graduate students.
+I'm recruiting a postdoc and graduate students.
 [More info here](/join/)
 
 
