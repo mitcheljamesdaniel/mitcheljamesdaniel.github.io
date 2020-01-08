@@ -55,6 +55,8 @@ Graduate school and academic jobs can be difficult and, while we wish it were no
 ## Writing Resources
 [The 5 pivotal paragraphs in a paper](https://dynamicecology.wordpress.com/2016/02/24/the-5-pivotal-paragraphs-in-a-paper/)
 
+[Tell us your biological results!](https://dynamicecology.wordpress.com/2018/03/05/when-writing-tell-us-your-biological-results/)
+
 [Why You Procrastinate (It Has Nothing to do With Self-Control)](https://www.nytimes.com/2019/03/25/smarter-living/why-you-procrastinate-it-has-nothing-to-do-with-self-control.html)
 
 ## Other Resources
