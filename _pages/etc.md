@@ -57,6 +57,8 @@ Graduate school and academic jobs can be difficult and, while we wish it were no
 
 [Tell us your biological results!](https://dynamicecology.wordpress.com/2018/03/05/when-writing-tell-us-your-biological-results/)
 
+[The magical writing trick that's right under our noses](https://scientistseessquirrel.wordpress.com/2020/01/08/the-magical-writing-trick-thats-right-under-our-noses/)
+
 [Why You Procrastinate (It Has Nothing to do With Self-Control)](https://www.nytimes.com/2019/03/25/smarter-living/why-you-procrastinate-it-has-nothing-to-do-with-self-control.html)
 
 ## Other Resources
