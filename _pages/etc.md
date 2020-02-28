@@ -65,6 +65,10 @@ Graduate school and academic jobs can be difficult and, while we wish it were no
 
 [Why You Procrastinate (It Has Nothing to do With Self-Control)](https://www.nytimes.com/2019/03/25/smarter-living/why-you-procrastinate-it-has-nothing-to-do-with-self-control.html)
 
+[Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+
+[Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+
 ## Other Resources
 
 [Population genetics notes from Graham Coop](http://cooplab.github.io/popgen-notes/)
