@@ -1,36 +1,30 @@
 ---
-title: "Josephs Lab - People"
+title: "About"
 layout: gridlay
-excerpt: "Josephs Lab: People"
+excerpt: "About - Mitch Daniel"
 sitemap: false
 permalink: /people/
 ---
 
-# People in the Lab
+
 
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/me.jpg){: style="width: 300px; float: left; border: 10px"}
-### Emily Josephs (PI)
+### Mitch Daniel
 
-Emily is as an assistant professor in the Plant Biology department and AgBioResearch at Michigan State University. She received a PhD from the University of Toronto and was a postdoc at the University of California, Davis. Emily is generally excited about all things population and quantitative genetics, swimming, and camping. 
+I am an evolutionary biologist interestd in the causes and consequences of social behavior. 
 
-Email: josep993@msu.edu <br>
-Twitter: [@emjosephs](https://twitter.com/emjosephs)  
-Github: [emjosephs](https://github.com/emjosephs/) <br>
-Pronouns: She/her/hers
+I am currently a Dean's Postdoctoral Fellow at Florida State University, hosted by Kim Hughes. As a postdoc, my work focuses on the causes of frequency-dependent female mating preferences for male color patterns, and the consequences of negative frequency-dependent selection on those color patterns.
+
+Prior to coming to Florida State, I did my PhD on kin recognition, inbreeding avoidance, and male-male competition in with Helen Rodd at the University of Toronto. Before that, I studied biology at Queen's Universiy.
+
+Email: mitcheljamesdaniel@gmail.com <br>
+Twitter: [@MitchelJDaniel](https://twitter.com/MitchelJDaniel)  
+Github: [mitcheljamesdaniel](https://mitcheljamesdaniel.github.io/) <br>
+Pronouns: He/him/his
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/thumbnail_maya_lab_website.jpg){: style="width: 300px; float: left; border: 10px"}
-### Maya Wilson Brown (Lab Technician)
-Maya got her B.S. in Biology at Duke University studying hybrid seed incompatibility and speciation in monkey flowers (Mimulus) and morning glories (Ipomoea). She is interested in evolutionary biology, ecology, genetics, and loves strong espresso.
-
-Email: wils1582@msu.edu <br>
-Pronouns: She/her/hers
-
-### You?
-I'm recruiting a postdoc and graduate students.
-[More info here](/join/)
-
 
 
 
