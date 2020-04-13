@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: textlay
-excerpt: "Josephs Lab at Michigan State University."
+excerpt: "Mitch Daniel in the Hughes lab at Florida State University"
 sitemap: false
 permalink: /allnews.html
 ---
