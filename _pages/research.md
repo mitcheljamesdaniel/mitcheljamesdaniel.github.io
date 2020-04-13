@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-The lab is broadly interested in understanding how various evolutionary forces, like drift and selection, shape patterns of genetic variation and trait variation in natural and domesticated plant species. Questions in this realm include:
+I do things
 
 - Why does genetic variation persist within populations? 
 - What evolutionary forces shape genetic divergence between populations?
