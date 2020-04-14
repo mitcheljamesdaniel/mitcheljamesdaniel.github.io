@@ -1,20 +1,24 @@
 ---
-title: "Josephs Lab - Research"
+title: "Mitch Daniel - Research"
 layout: textlay
-excerpt: "Josephs Lab -- Research"
+excerpt: "Mitch Daniel - Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-I do things
+I am broadly interested in understanding how selection, evolutionary constraints, and plasticity shape social behavior, as well as the consequences of social interactions for genetic and trait variation. I tackle these questions by developing new theory, field studies, and laboratory experiments, with an emphasis on testing widely held assumptions. My work has leveraged the Trinidadian guppy (<i>Poecilia reticulata</i>)
 
-- Why does genetic variation persist within populations? 
-- What evolutionary forces shape genetic divergence between populations?
-- How do plants adapt to their local environments (if they do)?
+## How do organisms recognize their kin?
 
-We tackle these questions using population genomic and quantitative genetic techniques with a focus on thinking about quantitative (complex) traits and gene expression. We're also interested in not only answering these questions for our specific species, but developing methods and techniques that other scientists can use in their own work.
+Kin recognition systems allow organisms to adjust their behavior depending on relatedness to their social partners, enabling or enhancing a wide range of behavioral strategies including inbreeding and outbreeding avoidance, nepotism, and the formation of cooperative kin groups. Though kin recognition has been documented in a wide range of animal, plant, and microbial taxa, the proximate mechanisms underpinning kin recognition remain poorly understood. This gap presents an obstacle to addressing fundamental questions about the kinds of ecological pressures have given rise to kin recognition, the patterns of kin discrimination that play out in populations, and, therefore, the consequences of kin recognition for ecological and evolutionary dynamics.
+
+Specific questions addressed by my research include (1) how exposure to the phenotypes of kin facilitates kin recognition, (2) whether individuals use population estimates - information about the "phenotypic space" of the local population - to calibrate their kin recognition systems, and (3) how population genetic factors affect the reliability of kin recognition across different ecological contexts.
+
+## How does kin recognition shape mate choice and intrasexual competition
+
+Inbreeding has been widely (though not ubiquitously) observed, which has led many behavioral ecologists to predict that inbreeding avoidance should be widespread. Yet, many taxa exhibiting inbreeding depression do not avoid inbreeding. As part of my PhD work with Helen Rodd (Univ. of Toronto), I showed that inbreeding avoidance during mate choice is exhibit by female guppies only after initial, indiscriminate matings. 
 
 
 ## Study systems
