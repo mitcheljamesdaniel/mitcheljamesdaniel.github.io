@@ -24,7 +24,7 @@ Inbreeding depression has been widely (though not ubiquitously) observed, yet ev
 
 Relatedness has been proposed to relax intrasexual competition, because competition with kin entails added, indirect fitness costs. I have tested this hypothesis using a combination of mathematical modelling, behavioral experiments, and genetic measures of multiple paternity in natural populations. This work showed that male guppies use kin recognition to optimally balance selfish and nepotistic strategies of sexual competition, maximizing the total fitness payoffs from their mating effort. I am interested in studying how males are able, as we found, to integrate information about female quality and the competitive landscape - including competitor relatedness - to make finely-tuned competitive decisions.
 
-### Frequency-dependent sexual selection and the maintenance of ecologically-relevant variation?
+### Frequency-dependent sexual selection and the maintenance of genetic variation
 
 Populations harbor enormous genetic variation even for traits under strong natural selection. Resolving the processes that maintain this variation is a fundamentally important question in evolutionary biology. I am studying whether variation in male guppy color patterns - one of the most extreme examples of morphological polymorphism - is maintained by sexual selection.
 
