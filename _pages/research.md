@@ -22,9 +22,9 @@ Genetic relatedness is expected to alter the fitness consequences of sexual inte
 
 Inbreeding depression has been widely (though not ubiquitously) observed, leading many behavioral ecologists to predict that inbreeding avoidance should be similarly common. Yet, many taxa exhibiting inbreeding depression do not avoid inbreeding. As part of my PhD work with Helen Rodd (University of Toronto), I examined how, and when, female guppies use different kin recognition systems to avoid mating with closely related suitors.
 
-Relatedness among males has been proposed to relax intrasexual competition, because competition with kin entails added, indirect fitness costs. In collaboration with Robert Williamson (Rose-Hulman Technical Institute), I used a combination of mathematical modelling and large-scale behavioral experiments to ask whether males integrate information about female quality and competitive context - including competitor relatedness - when allocating their mating effort, and whether male competitive strategies have been fine-tuned by kin selection.
+Relatedness among males has been proposed to relax intrasexual competition, because competition with kin entails added, indirect fitness costs. In collaboration with Robert Williamson (Rose-Hulman Technical Institute), I used a combination of mathematical modelling and large-scale behavioral experiments to ask whether males integrate information about female quality, competitor presence, and competitor relatedness when allocating their mating effort, and whether male competitive strategies have been fine-tuned by kin selection.
 
-
+### Frequency-dependent sexual selection and the maintenance of ecologically-relevant variation?
 
 
 
